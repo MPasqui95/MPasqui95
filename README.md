@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Matias Pasquini
-- 👀 I’m interested in  la programacion y la música  (soy productor musical y  multinstrumentista)
-- 🌱 I’m currently learning  pogramacion Web Full Stack
-- 💞️ I’m looking to collaborate on  cualquier tipo de proyecto, quiero aplicar todo lo que estoy aprendiendo, ganar experiencia y seguir aprendiendo cosas nuevas.
+- 👀 I’m interested in programming and music (I am a music producer and multi-instrumentalist)
+- 🌱 I’m currently learning  full stack web programming
+- 💞️ I’m looking to collaborate on any type of project, I want to apply everything I am learning, gain experience and keep learning new things.
 - 📫 How to reach me :  Email: matipasquini95@gmail.com - ig: @matipasqui
 
 <!---
